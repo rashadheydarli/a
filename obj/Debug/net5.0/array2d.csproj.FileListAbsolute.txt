@@ -1,0 +1,16 @@
+C:\Users\Rashadahe\source\repos\array2d\array2d\bin\Debug\net5.0\array2d.exe
+C:\Users\Rashadahe\source\repos\array2d\array2d\bin\Debug\net5.0\array2d.deps.json
+C:\Users\Rashadahe\source\repos\array2d\array2d\bin\Debug\net5.0\array2d.runtimeconfig.json
+C:\Users\Rashadahe\source\repos\array2d\array2d\bin\Debug\net5.0\array2d.runtimeconfig.dev.json
+C:\Users\Rashadahe\source\repos\array2d\array2d\bin\Debug\net5.0\array2d.dll
+C:\Users\Rashadahe\source\repos\array2d\array2d\bin\Debug\net5.0\ref\array2d.dll
+C:\Users\Rashadahe\source\repos\array2d\array2d\bin\Debug\net5.0\array2d.pdb
+C:\Users\Rashadahe\source\repos\array2d\array2d\obj\Debug\net5.0\array2d.csproj.AssemblyReference.cache
+C:\Users\Rashadahe\source\repos\array2d\array2d\obj\Debug\net5.0\array2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashadahe\source\repos\array2d\array2d\obj\Debug\net5.0\array2d.AssemblyInfoInputs.cache
+C:\Users\Rashadahe\source\repos\array2d\array2d\obj\Debug\net5.0\array2d.AssemblyInfo.cs
+C:\Users\Rashadahe\source\repos\array2d\array2d\obj\Debug\net5.0\array2d.csproj.CoreCompileInputs.cache
+C:\Users\Rashadahe\source\repos\array2d\array2d\obj\Debug\net5.0\array2d.dll
+C:\Users\Rashadahe\source\repos\array2d\array2d\obj\Debug\net5.0\ref\array2d.dll
+C:\Users\Rashadahe\source\repos\array2d\array2d\obj\Debug\net5.0\array2d.pdb
+C:\Users\Rashadahe\source\repos\array2d\array2d\obj\Debug\net5.0\array2d.genruntimeconfig.cache
